@@ -29,7 +29,7 @@ import pickle
 from convert_oxygen_units import *
 from scipy.ndimage import zoom
 
-# Set LaTex-style font
+# Set LaTeX-style font
 plt.rcParams['mathtext.fontset'] = 'stix'
 plt.rcParams['font.family'] = 'STIXGeneral'
 plt.rcParams.update({'font.size': 22})
